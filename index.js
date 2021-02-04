@@ -3,8 +3,6 @@ const { PrismaClient } = require('@prisma/client');
 const prisma = new PrismaClient();
 let ids = 4;
 
-console.log('start')
-
 // const students =
 //   [
 //     {
